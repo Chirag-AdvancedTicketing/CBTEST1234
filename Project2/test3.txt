@@ -1,2 +1,2 @@
-file changed from the server !!
+file changed from the server !! - changed by server
 added text --- by alex !!
