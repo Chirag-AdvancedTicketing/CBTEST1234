@@ -1,3 +1,7 @@
 text  added by Chirag
 added text from github !!
+<<<<<<< HEAD
 change by Chirag
+=======
+change by Pankti
+>>>>>>> 55ddbdeee0b8882183fb3df439522cf102ec817a
