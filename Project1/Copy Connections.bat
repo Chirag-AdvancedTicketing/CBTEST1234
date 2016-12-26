@@ -3,5 +3,5 @@ SET @CurrentPath=%~dp0
 SET @CurrentDrive=%~d0
 %@CurrentDrive%
 CD %@CurrentPath%
-ren "connections.config.archived" "connections.config"
+copy "connections.config.archived" "connections.config" /Y
 pause
